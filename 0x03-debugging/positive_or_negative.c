@@ -1,5 +1,11 @@
 #include <stdio.h>
 #include "main.h"
+/**
+ * positive_or_negative: determines positive or negative.
+ * @i: The integer to be evaluated.
+ * Description: This function takes an integer as input and checks its value.
+ * Return: None
+ */
 
 void positive_or_negative(int i)
 {
